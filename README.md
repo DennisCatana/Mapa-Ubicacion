@@ -9,6 +9,7 @@
 4. Debera de tener un proyecto creado en Firebase con todo lo necesario.<br>
 ![Descripción de la imagen](fotos/firebase.png)
 5. Se debera de poner sus credenciales en de firebase en los siguientes archivos los cuales estan en la ruta src/environments.
+![alt text](fotos/despliegue.jpeg)
  - environment.ts <br>
 ![alt text](fotos/env.png)
  - environment.prod.ts<br>
@@ -16,4 +17,6 @@
 6. Una vez realizada esta confihuraciones el usuario ejecutara el comando *ionic serve* y esperara a que en un navegadorse le muestre la siguiente pantalla. <br>
 ![alt text](fotos/ubi.png)
 7. Debera hacer click en obtener ubicación y sus coordenadas y ubicacion se mostrara en el mapa y en la pantalla.
-![alt text](fotos/getubi.png)
+![alt text](fotos/getubi.png)<br>
+8. Se procede a verificar que se haya cuardado correctamente en la bdd de firebase
+![alt text](fotos/fireubi.jpeg)
